@@ -1,0 +1,31 @@
+{
+  "theme": "melhores equipamentos de casa inteligente",
+  "categories": [
+    {
+      "value": "melhores-equipamentos-de-casa-inteligente",
+      "label": "Melhores equipamentos de casa inteligente"
+    },
+    {
+      "value": "dicas",
+      "label": "Dicas de Melhores equipamentos de casa inteligente"
+    },
+    {
+      "value": "analises",
+      "label": "Análises e Guias"
+    }
+  ],
+  "images": [
+    {
+      "value": "/recommended-melhores-equipamentos-de-casa-inteligente-1.jpg",
+      "label": "Melhores equipamentos de casa inteligente Premium"
+    },
+    {
+      "value": "/recommended-melhores-equipamentos-de-casa-inteligente-2.jpg",
+      "label": "Melhores equipamentos de casa inteligente Custo-Benefício"
+    },
+    {
+      "value": "/recommended-melhores-equipamentos-de-casa-inteligente-3.jpg",
+      "label": "Melhores Melhores equipamentos de casa inteligente"
+    }
+  ]
+}
