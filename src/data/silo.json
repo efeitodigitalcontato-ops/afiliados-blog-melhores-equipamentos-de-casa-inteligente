@@ -1,0 +1,96 @@
+{
+  "categories": [
+    {
+      "name": "Melhores Equipamentos Essenciais de Casa Inteligente",
+      "slug": "melhores-equipamentos-essenciais-casa-inteligente",
+      "description": "Seu ponto de partida para descobrir os dispositivos inteligentes mais importantes e versáteis que transformam qualquer lar. Encontre guias completos e análises dos equipamentos fundamentais para iniciar ou expandir sua casa inteligente com as melhores escolhas do mercado.",
+      "subcategories": [
+        {
+          "name": "Guias Gerais de Equipamentos Inteligentes",
+          "slug": "guias-gerais-equipamentos-inteligentes",
+          "description": "Análises abrangentes, comparativos e guias introdutórios dos melhores equipamentos inteligentes para iniciantes e entusiastas, cobrindo o panorama geral da casa conectada e ajudando na sua primeira escolha.",
+          "articles": [
+            {
+              "title": "Desvende o Futuro: Seu Guia Essencial para os Melhores Equipamentos de Casa Inteligente",
+              "slug": "primeiro-post"
+            }
+          ]
+        },
+        {
+          "name": "Melhores Hubs e Controladores Inteligentes",
+          "slug": "melhores-hubs-controladores-inteligentes",
+          "description": "Descubra os melhores hubs e controladores que atuam como o cérebro da sua casa inteligente, integrando e gerenciando todos os seus dispositivos para uma automação perfeita e eficiente.",
+          "articles": []
+        },
+        {
+          "name": "Melhores Assistentes Virtuais e Smart Speakers",
+          "slug": "melhores-assistentes-virtuais-smart-speakers",
+          "description": "Encontre os melhores assistentes virtuais e smart speakers que trazem controle por voz, informações e entretenimento para sua casa, tornando a interação com seus equipamentos inteligentes mais intuitiva.",
+          "articles": []
+        },
+        {
+          "name": "Melhores Tomadas e Interruptores Inteligentes",
+          "slug": "melhores-tomadas-interruptores-inteligentes",
+          "description": "Transforme qualquer aparelho em um dispositivo inteligente com as melhores tomadas e interruptores inteligentes. Controle a energia, programe horários e monitore o consumo com facilidade.",
+          "articles": []
+        }
+      ]
+    },
+    {
+      "name": "Melhores Equipamentos de Segurança Inteligente",
+      "slug": "melhores-equipamentos-seguranca-inteligente",
+      "description": "Proteja seu lar e sua família com os melhores equipamentos de segurança inteligente. Descubra câmeras, alarmes, sensores e fechaduras que oferecem monitoramento avançado e total paz de espírito.",
+      "subcategories": [
+        {
+          "name": "Melhores Câmeras de Segurança Inteligente",
+          "slug": "melhores-cameras-seguranca-inteligente",
+          "description": "Monitore sua casa com as melhores câmeras de segurança inteligentes, incluindo modelos internos e externos com detecção de movimento, visão noturna, áudio bidirecional e armazenamento seguro.",
+          "articles": []
+        },
+        {
+          "name": "Melhores Alarmes e Sensores Inteligentes",
+          "slug": "melhores-alarmes-sensores-inteligentes",
+          "description": "Garanta a proteção contra intrusos e emergências com os melhores sistemas de alarme e sensores inteligentes de porta/janela, movimento, fumaça e vazamento, todos conectados ao seu smartphone.",
+          "articles": []
+        },
+        {
+          "name": "Melhores Fechaduras Inteligentes",
+          "slug": "melhores-fechaduras-inteligentes",
+          "description": "Controle o acesso à sua casa com as melhores fechaduras inteligentes. Ofereça conveniência com acesso sem chave, monitoramento remoto e integração com outros dispositivos de segurança.",
+          "articles": []
+        },
+        {
+          "name": "Melhores Videoporteiros Inteligentes",
+          "slug": "melhores-videoporteiros-inteligentes",
+          "description": "Veja e converse com visitantes de qualquer lugar com os melhores videoporteiros inteligentes. Aumente a segurança e o controle de acesso à sua porta, mesmo quando você não está em casa.",
+          "articles": []
+        }
+      ]
+    },
+    {
+      "name": "Melhores Equipamentos de Conforto e Eficiência Energética",
+      "slug": "melhores-equipamentos-conforto-eficiencia-energetica",
+      "description": "Transforme sua casa em um oásis de conforto e economize energia com os melhores equipamentos inteligentes. Explore soluções para iluminação, climatização e automação diária que simplificam sua vida.",
+      "subcategories": [
+        {
+          "name": "Melhores Lâmpadas e Iluminação Inteligente",
+          "slug": "melhores-lampadas-iluminacao-inteligente",
+          "description": "Crie ambientes perfeitos com as melhores lâmpadas e sistemas de iluminação inteligente. Controle cores, intensidade e horários por voz, aplicativo ou automação, otimizando o conforto e a economia.",
+          "articles": []
+        },
+        {
+          "name": "Melhores Termostatos e Climatização Inteligente",
+          "slug": "melhores-termostatos-climatizacao-inteligente",
+          "description": "Mantenha a temperatura ideal e reduza o consumo de energia com os melhores termostatos e equipamentos de climatização inteligente. Programe, monitore e ajuste o clima de sua casa de forma eficiente.",
+          "articles": []
+        },
+        {
+          "name": "Melhores Robôs Aspiradores Inteligentes",
+          "slug": "melhores-robos-aspiradores-inteligentes",
+          "description": "Mantenha sua casa impecável sem esforço com os melhores robôs aspiradores inteligentes. Descubra modelos com mapeamento avançado, esvaziamento automático e controle por aplicativo para uma limpeza autônoma.",
+          "articles": []
+        }
+      ]
+    }
+  ]
+}
